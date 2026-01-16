@@ -1,0 +1,24 @@
+{
+  "ticker": "AAPL",
+  "cik": "320193",
+  "cik10": "0000320193",
+  "form": "10-K",
+  "filingDate": "2024-11-01",
+  "reportDate": "2024-09-28",
+  "accessionNumber": "0000320193-24-000123",
+  "archiveDir": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/",
+  "primaryDocument": "aapl-20240928.htm",
+  "extractedInstanceXML": "aapl-20240928_htm.xml",
+  "taxonomyFiles": {
+    "schema": "aapl-20240928.xsd",
+    "presentation": "aapl-20240928_pre.xml",
+    "calculation": "aapl-20240928_cal.xml",
+    "definition": "aapl-20240928_def.xml",
+    "label": "aapl-20240928_lab.xml"
+  },
+  "exhibitFiles": [],
+  "browseEdgarURL": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AAPL&type=10-K&count=100",
+  "submissionsURL": "https://data.sec.gov/submissions/CIK0000320193.json",
+  "indexJSON": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/index.json",
+  "userAgentUsed": "Leo Liu leo@dayu.fund"
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>edgar/data/320193/000032019324000123/aapl-20240928.txt</Key><RequestId>WJC6G1SE597QET91</RequestId><HostId>/KcBcCDHG9r76Hy4d4QTALDFejkyb90DEfWpcfOwcN3cSib98rkc9oHK865bDSEeMGe4SIJq7LcjgGwk0c00musN3INYRqWnmPkV2p5qjgY=</HostId></Error>
