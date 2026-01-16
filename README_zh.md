@@ -22,7 +22,7 @@
 
 ## 快速开始
 
-如果你完全不知道 OpenCode 是什么，也不会写代码，请先看这份 [非程序员专属指南](OPENCODE.md)
+如果你完全不知道 OpenCode 是什么，也不会写代码，请先看这份非程序员专属指南：[OPENCODE.md](OPENCODE.md)
 
 ### 0) 安装到 Agent
 将 `stock-qualitative-analysis/` 文件夹放到你的 Agent 会扫描的 skills 目录中。Claude Code / Codex / OpenCode 请使用各自配置的 skills 路径（查看其文档或设置），并确保目录名为 `stock-qualitative-analysis`。
